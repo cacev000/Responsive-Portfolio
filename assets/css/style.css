@@ -1,0 +1,94 @@
+@media only screen and (min-width: 1140px) {
+  .link-style-xl{
+      margin-left:200px;
+  }
+}
+@media only screen and (min-width: 960px) and (max-width: 1139px) {
+    .link-style-lg{
+        margin-left:150px;
+    }
+}
+@media only screen and (min-width: 720px) and (max-width: 960px){
+  .link-style-md{
+    margin-left:75px;
+  }
+}
+@media only screen and (min-width: 540px) and (max-width: 719px){
+  .link-style-sm{
+    margin-left:30px;
+  }
+}
+@media only screen and (max-width: 539px) {
+  .link-style-xs{
+    margin-left:0px;
+  }
+}
+
+.nav-link-row {
+    margin-left:1px;
+}
+
+body{
+    background-color: #fcfdff !important;
+}
+
+.h-40 {
+    font-size: 40px;
+}
+
+.img-fl {
+    float: left;
+    margin-right: 15px;
+}
+
+.ml-45 {
+    margin-left: 45px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.card-shadow {
+    box-shadow: 1px 1px #d0cfcfbf;
+}
+
+.professionalColor {
+    color: #0000bf;
+}
+
+.mainContent {
+    padding: 50px 30px !important;
+    min-height: 100%;
+}
+
+.imgProfile {
+    width: 45px;
+    border-radius: 30px;
+}
+
+.profileName {
+    padding: .5rem 1rem;
+}
+
+.bottom-card-title {
+    position: absolute;
+    bottom: 0;
+}
+
+.footer-style {
+    padding: .75rem 1.25rem;
+    background-color: rgba(0,0,0,.125);
+    border-top: 1px solid #ced4da;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.header-style {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: rgba(0,0,0,.125);
+    border-bottom: 1px solid #ced4da;
+}
